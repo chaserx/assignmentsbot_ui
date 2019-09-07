@@ -4,9 +4,9 @@ This React app is the corresponding UI for [AssignmentsBot](https://github.com/c
 
 It should facilitate the subscription management for the AssignementsBot. Simply requires an email.
 
-![](./screenshot1.png)
-
 ![](./screenshot2.png)
+
+![](./screenshot1.png)
 
 This project is not in a place where it could be deployed.
 
