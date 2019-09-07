@@ -1,3 +1,24 @@
+# [unfinished] AssignmentsBot UI
+
+This React app is the corresponding UI for [AssignmentsBot](https://github.com/chaserx/assignmentsbot).
+
+It should facilitate the subscription management for the AssignementsBot. Simply requires an email.
+
+![](./screenshot1.png)
+
+![](./screenshot2.png)
+
+This project is not in a place where it could be deployed.
+
+### TODO
+
+-[] Connect up forms to the corresponding API
+-[] How to secure user data? Should we have a legit user and auth system or just simple like a email newsletter form?
+
+## Create React App Boilerplate
+
+===
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
