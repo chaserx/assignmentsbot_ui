@@ -12,8 +12,8 @@ This project is not in a place where it could be deployed.
 
 ### TODO
 
--[] Connect up forms to the corresponding API
--[] How to secure user data? Should we have a legit user and auth system or just simple like a email newsletter form?
+-[ ] Connect up forms to the corresponding API
+-[ ] How to secure user data? Should we have a legit user and auth system or just simple like a email newsletter form?
 
 ## Create React App Boilerplate
 
